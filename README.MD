@@ -1,6 +1,6 @@
 # Data Analysis Project
 
-This project is a data analysis notebook that performs exploratory data analysis (EDA), visualization, and basic preprocessing on a given dataset. It uses popular Python libraries such as Pandas, Matplotlib, Seaborn, and others to extract meaningful insights from the data.
+This project is a data analysis notebook that performs exploratory data analysis (EDA), visualization, and basic preprocessing on a given dataset. It uses popular Python libraries such as Pandas, Plotly, Geopy and others to extract meaningful insights from the data.
 
 ## Features
 
