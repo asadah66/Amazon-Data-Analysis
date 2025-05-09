@@ -9,8 +9,16 @@ This project is a data analysis notebook that performs exploratory data analysis
 - Statistical summaries
 - Data visualization using plots and graphs
 
+## Data Visualization Screenshots
+
 ![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/12d971ea1689eea4d819e250e3b89386bfbef4a3/image1.png)
-https://github.com/asadah66/Amazon-Data-Analysis/blob/b96dd15736dea6ba45e2bc266737ee969d88eda5/image2.png
+![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/b96dd15736dea6ba45e2bc266737ee969d88eda5/image2.png)
+![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/03f6affbb6fea247467ad20da6c315e178dc4174/image3.png)
+![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/03f6affbb6fea247467ad20da6c315e178dc4174/image4.png)
+![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/03f6affbb6fea247467ad20da6c315e178dc4174/image5.png)
+![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/03f6affbb6fea247467ad20da6c315e178dc4174/image6.png)
+![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/03f6affbb6fea247467ad20da6c315e178dc4174/image7.png)
+![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/03f6affbb6fea247467ad20da6c315e178dc4174/image8.png)
 
 ## Requirements
 
