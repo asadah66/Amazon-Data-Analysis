@@ -9,6 +9,8 @@ This project is a data analysis notebook that performs exploratory data analysis
 - Statistical summaries
 - Data visualization using plots and graphs
 
+![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/12d971ea1689eea4d819e250e3b89386bfbef4a3/image1.png)
+
 ## Requirements
 
 Install the required dependencies using the `requirements.txt` file:
@@ -16,7 +18,6 @@ Install the required dependencies using the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
 
-![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/12d971ea1689eea4d819e250e3b89386bfbef4a3/image1.png)
 
 
 
