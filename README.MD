@@ -10,6 +10,7 @@ This project is a data analysis notebook that performs exploratory data analysis
 - Data visualization using plots and graphs
 
 ![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/12d971ea1689eea4d819e250e3b89386bfbef4a3/image1.png)
+https://github.com/asadah66/Amazon-Data-Analysis/blob/b96dd15736dea6ba45e2bc266737ee969d88eda5/image2.png
 
 ## Requirements
 
