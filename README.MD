@@ -16,4 +16,5 @@ Install the required dependencies using the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
 
-![image alt](https://github.com/asadah66/Amazon-Data-Analysis/blob/main/image1.png?raw=true)
+![image alt](https://raw.githubusercontent.com/asadah66/Amazon-Data-Analysis/main/image1.png)
+
